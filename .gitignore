@@ -1,2 +1,4 @@
 /screenShots
+/node_modules
 .prettierrc
+.prettierignore
